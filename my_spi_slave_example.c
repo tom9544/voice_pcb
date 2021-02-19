@@ -66,6 +66,11 @@ static	bool  isPorcessCompleted = false;
 /****************************************************************************************
 		rt-thread-thread0use
 
+
+
+int my_age = 9;
+		
+
 *****************************************************************************************/	
 #include <rtthread.h>
 #define 	THREAD_PRIORITY         25

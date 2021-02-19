@@ -7,8 +7,6 @@ int main(int argc,char * argv[])
 	
 	printf("222");
 	
-	printf("333");
-	
  
 	return 0;
 }
